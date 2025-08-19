@@ -24,7 +24,7 @@ Clone this repository and install dependencies:
 git clone https://github.com/<your-username>/PdfFontInspector.git
 cd PdfFontInspector
 dotnet restore
-
+```
 ## Usage
 
 ```bash
